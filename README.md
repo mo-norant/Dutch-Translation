@@ -4,6 +4,8 @@ The Dutch language files for use in [SwitchLanguage](https://github.com/KSP-Loca
 ## How to help
 To contribute to this mod, please read the contributing guidelines.
 
+**Currently translations are added at the Dutch [Spreadsheet](https://docs.google.com/spreadsheets/d/1ie7dQrYke2uVg7w16R1ij7qR8zGxnp9EARF6cZvWfQ8/edit#gid=0)**
+
 ### Modifying the code
 
 1. Install a text editor.
