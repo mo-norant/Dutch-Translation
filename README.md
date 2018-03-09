@@ -26,7 +26,7 @@ To contribute to this mod, please read the contributing guidelines.
 * Olympic1
 
 ## Licensing
-Copyright © 2017, KSP-Localization. All rights reserved.
+Copyright © 2017-2018, KSP-Localization. All rights reserved.
 
 Written by the KSP-Localization team for use in [SwitchLanguage](https://github.com/KSP-Localization/SwitchLanguage).  
 This project may not be used in any derivative work without permission.
